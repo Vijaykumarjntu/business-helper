@@ -1,0 +1,14 @@
+Meeting 3 - Final review and approval discussion
+
+Consultant: "Here is the final proposal summary. We have kept the website within the revised scope and included the FAQ and case studies pages, as discussed."
+Client: "Good. We also need a more advanced lead routing workflow in our CRM to automatically assign incoming form submissions."
+Consultant: "That is additional custom development and falls outside the current agreed scope. It should be quoted separately as a change request with additional cost."
+Client: "Okay. We are comfortable with the FAQ, case studies, and the lead routing work being treated as a separate quote, but the rest of the project stays as a website build with training."
+Consultant: "Agreed. We will document the approved items and the out-of-scope custom CRM automation as extra work."
+
+Summary:
+- FAQ section approved as a project change
+- Case studies page approved as a project change
+- Custom CRM automation and lead routing are outside scope and should be quoted extra
+- Original website, SEO, Google Analytics, CMS, and training remain in scope
+- No other new items are approved without a separate change request

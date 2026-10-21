@@ -1,0 +1,14 @@
+Meeting 2 - Follow-up change request
+
+Consultant: "Thanks for the follow-up. We reviewed the draft and we have a few changes to discuss."
+Client: "We need a new FAQ section and a case studies page. We also want to add a contact form integration with our existing CRM."
+Consultant: "Those are changes to the original scope. The FAQ and case studies can be included in the website build, but the CRM integration is outside the agreed scope and would be quoted as extra work."
+Client: "Understood. We would like to keep the FAQ and case study pages within the project, but if we add CRM syncing, we need a quote and separate cost approval."
+Consultant: "Perfect. We'll record the FAQ and case studies as accepted project changes. The CRM integration will remain outside scope until you approve the quote."
+
+Decision log:
+- Add FAQ section
+- Add dedicated case studies page
+- CRM integration: quoted extra, not included in original scope
+- Additional cost required for CRM integration
+- Change request captured for follow-up review

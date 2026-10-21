@@ -1,0 +1,18 @@
+Meeting 1 - Kickoff
+
+Client: "We want a focused website project for our business."
+Consultant: "Great. In scope, we will deliver a five-page marketing website, SEO setup, Google Analytics, a simple CMS for updating content, and one training session for your team."
+Client: "Perfect. That's the agreed scope. We are not asking for custom integrations or advanced CRM work."
+Consultant: "Understood. The original scope is locked and no additional work is included unless we agree to it in a follow-up meeting."
+
+Action items:
+- Build a five-page marketing website
+- Set up SEO basics
+- Connect Google Analytics
+- Add CMS for content updates
+- Train staff on the CMS
+
+Notes:
+- Timeline: 4 weeks after approval
+- Deliverables: website design, launch support, content update guidance
+- Out of scope: custom CRM, advanced booking flow, API integrations, and bespoke app development
